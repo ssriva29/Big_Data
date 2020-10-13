@@ -20,7 +20,7 @@
    "source": [
     "import pandas as pd\n",
     "\n",
-    "file = '/Users/pawanjeetkaur/Downloads/SPRING 2020/Big Data - IDS 561/HW_4/u.data'\n",
+    "file = '/Users/shubhangisrivastava/IDS 561/HW_4/u.data'\n",
     "\n",
     "from pyspark import SparkContext\n",
     "from pyspark.sql import SQLContext\n",
